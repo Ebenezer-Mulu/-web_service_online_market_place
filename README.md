@@ -1,6 +1,6 @@
 # Webservice Online Market Place Platform
 
-Online Market Place Platform is a powerful multi-store inventory management system designed to streamline the inventory management process across multiple stores. It provides individual store managers with the tools they need to efficiently manage inventory, while a central administration module allows for oversight and control of the entire system. With OmniStock, you can easily track inventory, facilitate inventory transfers between stores, and manage different product categories.
+Online Market Place Platform is a powerful multi-store inventory management system designed to streamline the inventory management process across multiple stores. It provides individual store managers with the tools they need to efficiently manage inventory, while a central administration module allows for oversight and control of the entire system. With Online Market Place Platform , you can easily track inventory, facilitate inventory transfers between stores, and manage different product categories.
 
 ## Key Features
 
@@ -13,7 +13,7 @@ Online Market Place Platform is a powerful multi-store inventory management syst
 
 ## Installation
 
-1. Clone the repository: `https://github.com/EbisaGirma21/web_service_online_market_place.git`
+1. Clone the repository: `https://github.com/Ebenezer-Mulu/-web_service_online_market_place.git`
 2. Install the required dependencies: `npm install`
 3. Configure the database connection in the `index.js` file.
 4. Run the application: `npm start`
@@ -55,5 +55,5 @@ Contributions to Online Market Place Platform are welcome! If you would like to 
 
 ## Contact
 
-For any inquiries or feedback, please contact me at [ebisagirma41@example.com](mailto:ebisagirma41@example.com).
+For any inquiries or feedback, please contact me at [ebenmulu@gmail.com](mailto:ebenmulu@gmail.com).
 
